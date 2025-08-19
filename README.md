@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @danielcubo
-- 👀 Estou interessado em vagas de estágio com demandas home office, pois trabalho e não tenho tempo disponível para estágio presencial ...
+- 👀 Profissional em transição de carreira | Analista de Sistemas | Desenvolvedor Java & JavaScript | Entusiasta de Arquitetura de Computadors e SO's | Conectando experiência de vida à inovação tecnológica ...
 <!---
 danielcubo/danielcubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
